@@ -1,4 +1,4 @@
-# Hello Rails PP
+# Hello Rails
 
 This is my first Ruby on Rails App. 
 
